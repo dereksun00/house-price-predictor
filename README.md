@@ -170,8 +170,11 @@ python -m src.feature_importance
 house-price-predictor/
 ├── data/
 │   └── raw/
+|       └── housing.csv
 ├── models/
+|   └── model.joblib
 ├── reports/
+|   └── metrics.json
 ├── src/
 │   ├── __init__.py
 │   ├── config.py
