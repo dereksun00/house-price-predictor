@@ -1,0 +1,14 @@
+{
+  "tuned_random_forest": {
+    "rmse": 26539.34321204165,
+    "r2": 0.9121506046242251,
+    "cv_rmse_best": 25908.31144243925,
+    "best_params": {
+      "model__max_depth": null,
+      "model__max_features": 0.7,
+      "model__min_samples_leaf": 2,
+      "model__min_samples_split": 5,
+      "model__n_estimators": 300
+    }
+  }
+}
